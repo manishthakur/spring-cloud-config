@@ -6,3 +6,8 @@ my:
   greeting: Hello from config server
   list:
     values: One, Two, Three, Four | from config server
+
+db:
+    connection: connectin-string-from-config-server
+    host: 0.0.0.1
+    port: 1010
