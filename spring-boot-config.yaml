@@ -1,5 +1,5 @@
 app:
-  name: My App from config server (spring-boot-config)
+  name: My App from config server (spring-boot-config) Updated
   description: Welcome to ${app.name} from confit server (spring-boot-config)
 
 my:
