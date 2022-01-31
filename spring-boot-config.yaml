@@ -5,7 +5,7 @@ app:
 my:
   greeting: Hello from config server (spring-boot-config)
   list:
-    values: One, Two, Three, Four | from config server (spring-boot-config)
+    values: One, Two, Three, Four | from config server (spring-boot-config) Updated
 
 db:
     connection: connectin-string-from-config-server (spring-boot-config)
