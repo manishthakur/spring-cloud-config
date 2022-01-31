@@ -10,4 +10,4 @@ my:
 db:
     connection: connectin-string-from-config-server (spring-boot-config)
     host: 0.0.0.1
-    port: 1010
+    port: 1111
