@@ -1,0 +1,13 @@
+app:
+  name: My App from config server (spring-boot-config)
+  description: Welcome to ${app.name} from confit server (spring-boot-config)
+
+my:
+  greeting: Hello from config server (spring-boot-config)
+  list:
+    values: One, Two, Three, Four | from config server (spring-boot-config)
+
+db:
+    connection: connectin-string-from-config-server (spring-boot-config)
+    host: 0.0.0.1
+    port: 1010
